@@ -30,7 +30,7 @@ The course in [Regression Models][20] gave an overview of possible statistical m
 The course in [Practical Machine Learning][22] provided an overview in how to design machine learning experiments and demonstrated the capabilities of the caret package in R. My associated project for this course can be found [here][23].
 
 ## Developing Data Products
-The course in [Developing Data Products][24] introduces Rpresenter, shiny, and slidify. My final project for this course involved generating a [shinyApp][25] with an accompanying [presentation][26]. The code for this project can be found [here][27].
+The course in [Developing Data Products][24] introduces Rpresenter, shiny, and slidify. My final project for this course involved generating a [shinyApp][25] with an accompanying [presentation][26]. 
 
 ## Data Science Capstone
 The specialization was finished with the [Data Science Capstone][28]. This capstone project involved handling a large data set of mined text (~1.5GB) and generating a word prediction application. The course is ongoing.
